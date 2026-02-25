@@ -1,6 +1,4 @@
-# Projects
-
-## About Me
+# About Me
 
 Hi, I'm Lanna, an MSc Information Systems student specializing in Human-Computer Interaction (HCI). My work focuses on understanding how people interact with technology, particularly in the context of human–AI interaction, ethical design, and data-driven decision-making.
 
