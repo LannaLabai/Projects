@@ -27,7 +27,9 @@ This was a literature review that I conducted where I asked: How do Dark UX Patt
 
 ## UI Projects (Not uploaded)
 In my UI design class, I had the opportunity to experiment with figma and (shallow) interface design.
+
 Profile examples: https://www.figma.com/proto/OBiK33TmO4qbxCWNSHpJ0j/UI_FinalProject?node-id=2303-1860&p=f&t=qLgMNIv4iMPnDJBe-0&scaling=min-zoom&content-scaling=fixed&page-id=2302%3A668
+
 Online globe shop: https://www.figma.com/proto/OBiK33TmO4qbxCWNSHpJ0j/UI_FinalProject?node-id=306-1703&t=qLgMNIv4iMPnDJBe-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=306%3A1703
 
 ## Hotel Guest Management App (Not uploaded)
